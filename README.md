@@ -135,7 +135,7 @@ This project focuses on software-based analysis using aerial data and simulated 
 - Venkatesh Paitwar  
 - Sandarbh Singh  
 - Srushti Agrawal  
-- Shravani Borde  
+- Shravani Borde
 
 ---
 
